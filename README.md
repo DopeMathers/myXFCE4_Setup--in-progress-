@@ -2,9 +2,9 @@
 Der Einfachheit halber können alle Pacman Pakete gleichzeitig installiert werden:
 sudo pacman -Syu vim git gimp xdotool grub-costumizer snapd noto-fonts powerline-fonts ttf-font-awesome screenfetch gnome-online-accounts thunderbird chromium discord vlc gvfs numlockx
 
-GRUND EINSTELLUNGEN:
+[b]GRUND EINSTELLUNGEN:[/b]
 
--[ ] Erster Schritt VIM installieren: sudo pacman -Syu vim
+-[ ] Erster Schritt VIM installieren: sudo pacman -Syu vim \n
 	-> VIM in bash.rc schreiben:
 	-> In Terminal: sudo nano /etc/bash.bashrc
 	-> Ans Ende der Datei: export EDITOR="/usr/bin/vim"  (wird gebraucht für pacaur)
