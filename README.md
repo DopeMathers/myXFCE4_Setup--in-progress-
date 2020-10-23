@@ -67,8 +67,8 @@ sudo pacman -Syu vim git gimp xdotool grub-costumizer snapd noto-fonts powerline
 	Whisker-Menü, Starter (Eclipse), Trennelement (Strich), Arbeitsfläschen switcher, Trennelement(Strich), Trennelement (Durchsichtig gedehnt), Allgemeine Überwachung (Fenstertitel), Trennelement (Druchsichtig gedehnt), Trennelement (Strich), (Allgemeine Überwachung (Spotify prev), Allgemeine Überwachung (Spotify-Panel), Allgemeine Überwachung (Spotify next)), Trennelement (Strich), Wetterbericht, Benachrichtigungsfläche, PulseAudio, Uhr, Trennelement (Strich), Aktionsknöpfe (Abmelden...)
 * [ ] Benötigte Tools laden: 
 	XFCE-Tweaks installieren: git clone [XFCE Tweaks](https://github.com/marcusscomputer/xfcetweaks.git)
-	(Spotify-Control installieren Teil 1: git clone [Spotify control 1](https://github.com/jonseppanen/slotify.git))
-	(Spotify-Control installieren Teil2: git clone [Spotify control 2](https://github.com/xtonousou/xfce4-genmon-scripts.git))
+	(Spotify-Control installieren Teil 1: git clone https://github.com/jonseppanen/slotify.git)
+	(Spotify-Control installieren Teil2: git clone https://github.com/xtonousou/xfce4-genmon-scripts.git)
 * [ ] (xfce4_genmon: spotify-panel.sh bei #panel einfügen -> INFO+="<click>spotify</click>" anpassen)
 * [ ] Tools ausführbar machen -> In Verzeichniss wechseln und Terminal aufrufen -> chmod 755 *
 * [ ] Fenstertitel: /usr/share/xfcetweaks/windowtitle
