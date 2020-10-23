@@ -174,11 +174,8 @@ sudo pacman -S plank
 	->  Gnome-Accounts setup: sudo gnome-control-center online-accounts
 	-> Und google verknüpfen
 
- ### Java installieren:
- Seperater Guide
-
- ### Eclipse installieren:
-Seperater Guide
+ ### Java & Eclipse Installieren:
+ [Java_Eclipse_Linux_Guide_Deutsch](https://github.com/DopeMathers/Java_Eclipse_Maven_LinuxSetup/blob/main/README.md)
 
 ### Simplenote installieren:
 * [ ] Simplenote-linux-1.21.1-x86_64.AppImage herunterladen:
