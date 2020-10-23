@@ -1,6 +1,6 @@
 # myXFCE4_Setup--in-progress- Deutsch
 
-![Screenimage](https://drive.google.com/file/d/1-4yyrCoBe5mWHBy9eBYK7oROSivNCZwQ/view?usp=sharing)
+![Screenimage](https://user-images.githubusercontent.com/70385335/97043712-2e787280-1573-11eb-9fce-507088bc8a94.png)
 
 Der Einfachheit halber können alle Pacman Pakete gleichzeitig installiert werden:
 sudo pacman -Syu vim git gimp xdotool grub-costumizer snapd noto-fonts powerline-fonts ttf-font-awesome screenfetch gnome-online-accounts thunderbird chromium discord vlc gvfs numlockx
