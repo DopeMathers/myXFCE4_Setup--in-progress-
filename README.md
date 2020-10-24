@@ -148,10 +148,6 @@ sudo pacman -S plank
 	-> xfce4-terminal --drop-down auf strg+q
 	-> xflock4 auf super+L
 	-> xfce4-terminal auf strg+t
-	
-### GitHub in Thunar:
-* [ ] pacaur -Sy rabbitvcs
-* [ ] pacaur -Sy rabbitvcs-thunar
 
 ## ERWEITERTE EINSTELLUNGEN:
 
